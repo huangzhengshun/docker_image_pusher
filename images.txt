@@ -1,1 +1,1 @@
-milvusdb/milvus:v2.5.4
+ghcr.io/knative/builder-jammy-tiny:0.0.323
