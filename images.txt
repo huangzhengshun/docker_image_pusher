@@ -1,1 +1,1 @@
-kicbase:v0.0.46
+google_containers/kicbase:v0.0.46
