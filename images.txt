@@ -1,1 +1,2 @@
-milvusdb/milvus-operator:v1.2.4
+milvusdb/milvus-operator:v1.2.5
+milvusdb/milvus:v2.5.10
