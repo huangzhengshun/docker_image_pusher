@@ -1,2 +1,3 @@
 milvusdb/milvus-operator:v1.2.6
 milvusdb/milvus:v2.5.11
+bytebase/bytebase:3.9.0
