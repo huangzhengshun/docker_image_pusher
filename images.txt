@@ -1,5 +1,6 @@
-milvusdb/milvus-operator:v1.2.6
-milvusdb/milvus:v2.5.11
+milvusdb/milvus-operator:v1.3.6
+milvusdb/milvus:v2.5.16
+milvusdb/milvus:v2.6.13
 bytebase/bytebase:3.9.0
 o2cr.ai/openobserve/openobserve:v0.15.1
 natsio/nats-box:0.18.0-nonroot
