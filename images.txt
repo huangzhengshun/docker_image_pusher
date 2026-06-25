@@ -1,1 +1,2 @@
 dgraph/ratel:latest
+dgraph/standalone:latest
